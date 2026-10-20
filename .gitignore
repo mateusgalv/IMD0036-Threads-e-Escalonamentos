@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.out
+
+src/intro
+src/exerc_1
+src/exerc_2
+src/exerc_3
